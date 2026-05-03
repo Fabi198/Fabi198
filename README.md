@@ -1,6 +1,6 @@
 # ¡Hola! Soy Fabián Ferrer 🚀
 
-**Desarrollador Android | Técnico Analista de Sistemas**
+**Desarrollador Android && Técnico Analista de Sistemas**
 
 Me especializo en construir aplicaciones móviles y soluciones de software enfocadas en el rendimiento, la escalabilidad y la simplicidad. Vengo de una formación técnica electromecánica, lo que me da una perspectiva única para resolver problemas lógicos y mecánicos a través del código.
 
