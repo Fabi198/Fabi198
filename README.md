@@ -28,8 +28,9 @@ Me especializo en construir aplicaciones móviles y soluciones de software enfoc
 
 ### 📈 Mi actividad en GitHub
 
-![Estadísticas de Fabián](https://github-readme-stats.vercel.app/api?username=Fabi198&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabi198&layout=compact&theme=radical)
+![Estadísticas de Fabián](https://github-readme-stats-sigma-five.vercel.app/api?username=Fabi198&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fabi198&layout=compact&theme=radical)
+
 
 ---
 
