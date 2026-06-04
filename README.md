@@ -23,6 +23,7 @@ Me especializo en construir aplicaciones móviles y soluciones de software enfoc
 *   **[Mallweb](https://github.com/Fabi198/Mallweb)**: E-commerce mobile con persistencia en SQLite.
 *   **[Portal de Pacientes](https://github.com/Fabi198/PatientsPortal)**: Clon modular de aplicaciones de salud enfocado en UI compleja.
 *   **Poly Scanner**: Herramienta privada de gestión de inventario conectada al sistema GIT corporativo mediante escaneo de códigos.
+*   **GIT Poly By Fabi198**: Herramienta privada de preparado de pedidos conectada al sistema GIT corporativo, y a los servicios de Google Sheets mediante API y scrapping de HTML.
 
 ---
 
@@ -30,7 +31,7 @@ Me especializo en construir aplicaciones móviles y soluciones de software enfoc
 
 - 🎓 **Analista de Sistemas** formado en ESBA (Estudios Superiores de Buenos Aires).
 - ⚙️ **Ex-emprendedor**: Fundé *Celumundo Hiper Mega Red* (reparación técnica de celulares) y *Petty Silicona*, un local de venta minorista de articulos de limpieza.
-- 💡 **Automatizador**: Reduje horas de trabajo manual en Polytech S.A. mediante microservicios en **JavaScript**.
+- 💡 **Automatizador**: Siempre teniendo como objetivo reducir horas de trabajo manual, aprovechando las ventajas que nos ofrece la tecnología.
 - 💬 Hablo **Español (Nativo)** e **Inglés (B2)**.
 
 ---
